@@ -19,4 +19,4 @@ rained @ [neuefische GmbH](https://www.neuefische.de/).
 [![louisberlin's github stats](https://github-readme-stats.vercel.app/api?username=louisberlin&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisberlin&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,html,css,tailwind,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,&theme=light)](https://skillicons.dev)
