@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisberlin)](https://github.com/louisberlin/github-readme-stats)
+rained @ [neuefische GmbH](https://www.neuefische.de/).
 
+[![louisberlin's github stats](https://github-readme-stats.vercel.app/api?username=louisberlin&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisberlin&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,html,css,tailwind,git)](https://skills.thijs.gg)
