@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backend-Entwickler 
+## Backend-Entwickler 
 Hallo, ich bin ein Schweizer Entwickler, der zurzeit in Berlin lebt. Ich programmiere in Java/Scala/C++ Webapplikationen und Softwareapplikationen.
 
 
